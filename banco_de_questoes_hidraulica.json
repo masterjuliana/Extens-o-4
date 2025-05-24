@@ -1,0 +1,276 @@
+[
+  {
+    "pergunta": "Qual cientista antigo enunciou princípios da hidrostática no seu 'Tratado sobre corpos flutuantes' por volta de 250 a.C.?",
+    "alternativas": [
+      "A) Isaac Newton",
+      "B) Galileu Galilei",
+      "C) Arquimedes",
+      "D) Blaise Pascal"
+    ],
+    "resposta_correta": "C",
+    "feedback": "Muito bem! Arquimedes foi um gênio da antiguidade. Até hoje usamos o seu famoso princípio para entender por que os corpos flutuam!"
+  },
+  {
+    "pergunta": "O que são corpos flutuantes?",
+    "alternativas": [
+      "A) Corpos em movimento na água",
+      "B) Corpos em repouso na superfície de um fluido",
+      "C) Corpos totalmente submersos",
+      "D) Corpos com densidade maior que a da água"
+    ],
+    "resposta_correta": "B",
+    "feedback": "Boa! Corpos flutuantes são aqueles que descansam tranquilos na superfície dos líquidos, como um barquinho no rio."
+  },
+  {
+    "pergunta": "Quais estudiosos antigos contribuíram para a hidráulica após observações cotidianas?",
+    "alternativas": [
+      "A) Arquimedes e Newton",
+      "B) Leonardo da Vinci e Pascal",
+      "C) Galileu Galilei e Bernoulli",
+      "D) Arquimedes, Leonardo da Vinci, Simon Stevin, Blaise Pascal, Galileu Galilei, Torricelli e Daniel Bernoulli"
+    ],
+    "resposta_correta": "D",
+    "feedback": "Excelente! Grandes mentes ajudaram a gente a entender como a água se move, se espalha e empurra!"
+  },
+  {
+    "pergunta": "Qual cientista desenvolveu as primeiras equações gerais para o movimento dos fluidos?",
+    "alternativas": [
+      "A) Newton",
+      "B) Bernoulli",
+      "C) Euler",
+      "D) Pascal"
+    ],
+    "resposta_correta": "C",
+    "feedback": "Mandou bem! Euler foi fundamental para o estudo dos fluidos em movimento. Matemática pura!"
+  },
+  {
+    "pergunta": "O que são fluidos?",
+    "alternativas": [
+      "A) Substâncias sólidas",
+      "B) Substâncias líquidas ou gasosas que se deformam facilmente",
+      "C) Substâncias que mantêm a forma constante",
+      "D) Substâncias com alta viscosidade"
+    ],
+    "resposta_correta": "B",
+    "feedback": "Show! Fluidos são aquelas substâncias que escorrem, escorregam, deslizam... como água e ar!"
+  },
+  {
+    "pergunta": "O que é tensão superficial?",
+    "alternativas": [
+      "A) Tensão em fluidos em repouso",
+      "B) Tensão gerada por forças opostas",
+      "C) Tensão gerada por forças aplicadas em sentidos iguais ou opostos, em direções semelhantes",
+      "D) Tensão em fluidos turbulentos"
+    ],
+    "resposta_correta": "C",
+    "feedback": "Parabéns! A tensão superficial explica por que alguns insetos conseguem caminhar sobre a água."
+  },
+  {
+    "pergunta": "Como os fluidos podem ser classificados?",
+    "alternativas": [
+      "A) Líquidos e gases",
+      "B) Compressíveis e incompressíveis",
+      "C) Newtonianos e não-newtonianos",
+      "D) Ideais e reais"
+    ],
+    "resposta_correta": "A",
+    "feedback": "Certíssimo! A principal divisão é entre líquidos e gases, os dois tipos mais comuns de fluido!"
+  },
+  {
+    "pergunta": "Um sistema de tratamento de esgoto primário remove principalmente qual tipo de poluente, crucial para proteger a saúde pública e ecossistemas aquáticos (ODS 6)?",
+    "alternativas": [
+      "A) Microrganismos patogênicos",
+      "B) Sólidos sedimentáveis",
+      "C) Produtos químicos dissolvidos",
+      "D) Nutrientes como nitrogênio e fósforo"
+    ],
+    "resposta_correta": "B",
+    "feedback": "Correto! A remoção de sólidos sedimentáveis é um passo fundamental para evitar a contaminação de corpos d'água e proteger a saúde das comunidades, contribuindo diretamente para o ODS 6, que busca garantir água limpa e saneamento para todos."
+  },
+  {
+    "pergunta": "Qual o conceito de 'gestão integrada de recursos hídricos' (GIRH) é mais alinhado com o objetivo do ODS 6 de garantir a sustentabilidade dos recursos hídricos?",
+    "alternativas": [
+      "A) Focar no aumento da oferta de água através de grandes obras",
+      "B) Considerar as necessidades de todos os usuários da água e os aspectos ambientais",
+      "C) Priorizar o uso da água para o desenvolvimento econômico imediato",
+      "D) Deixar a gestão da água a cargo de um único setor governamental"
+    ],
+    "resposta_correta": "B",
+    "feedback": "Exatamente! A GIRH, que considera as diversas demandas e a saúde dos ecossistemas, é fundamental para a sustentabilidade da água e está diretamente ligada ao ODS 6."
+  },
+  {
+    "pergunta": "Em projetos de engenharia hidráulica para comunidades rurais, qual prática pode contribuir para o empoderamento de mulheres (ODS 5) e garantir a sustentabilidade a longo prazo?",
+    "alternativas": [
+      "A) Contratar apenas engenheiros homens para liderar a construção",
+      "B) Consultar apenas os líderes masculinos da comunidade sobre as necessidades",
+      "C) Envolver ativamente as mulheres na fase de planejamento, implementação e manutenção do projeto",
+      "D) Assumir que as necessidades de água e saneamento são as mesmas para homens e mulheres"
+    ],
+    "resposta_correta": "C",
+    "feedback": "Correto! A participação ativa das mulheres garante que suas necessidades e perspectivas sejam consideradas, levando a projetos mais eficazes e sustentáveis, além de promover o empoderamento feminino (ODS 5)."
+  },
+  {
+    "pergunta": "Qual a importância de promover a participação de mulheres em cargos de liderança na gestão de recursos hídricos (ODS 5)?",
+    "alternativas": [
+      "A) Mulheres não têm interesse em questões técnicas",
+      "B) A liderança feminina pode trazer diferentes perspectivas e soluções inovadoras",
+      "C) É importante apenas ter representatividade masculina em cargos técnicos",
+      "D) A participação feminina é irrelevante para a eficiência da gestão"
+    ],
+    "resposta_correta": "B",
+    "feedback": "Exatamente! A liderança feminina traz diversidade de pensamento e pode levar a soluções mais inclusivas e eficazes na gestão da água, contribuindo para o ODS 5."
+  },
+  {
+    "pergunta": "Qual a importância da disseminação de conhecimento sobre hidráulica e gestão de recursos hídricos para a população em geral (ODS 4)?",
+    "alternativas": [
+      "A) Apenas os engenheiros precisam entender de hidráulica",
+      "B) A conscientização pública pode levar a um uso mais responsável da água e ao apoio a políticas sustentáveis",
+      "C) O conhecimento técnico deve ser restrito aos profissionais da área",
+      "D) A educação ambiental não se relaciona com a hidráulica"
+    ],
+    "resposta_correta": "B",
+    "feedback": "Correto! A educação e a conscientização são cruciais para promover um uso responsável da água e o apoio a políticas que garantam o acesso e a sustentabilidade (ODS 4 e 6)."
+  },
+  {
+    "pergunta": "Qual o papel das universidades e instituições de pesquisa no avanço do conhecimento em hidráulica e na formação de profissionais qualificados (ODS 4)?",
+    "alternativas": [
+      "A) Apenas formar engenheiros para o mercado de trabalho",
+      "B) Desenvolver novas tecnologias e metodologias para a gestão sustentável da água",
+      "C) Manter o conhecimento técnico restrito ao ambiente acadêmico",
+      "D) Não têm um papel direto na solução dos desafios hídricos"
+    ],
+    "resposta_correta": "B",
+    "feedback": "Exatamente! As universidades são centros de inovação e formação, essenciais para desenvolver o conhecimento e os profissionais que irão enfrentar os desafios da gestão da água (ODS 4)."
+  },
+  {
+    "pergunta": "Qual tecnologia sustentável a Ecocities desenvolve para reduzir o consumo de água potável?",
+    "alternativas": [
+      "A) Dessalinização de água oceânica",
+      "B) Captação e reuso de águas pluviais",
+      "C) Processos químicos para eliminação total de minerais na água",
+      "D) Produção de água potável a partir de resíduos industriais"
+    ],
+    "resposta_correta": "B",
+    "feedback": "Correto! A Ecocities desenvolve sistemas de captação e reuso de águas pluviais, tornando comunidades mais resilientes às crises hídricas."
+  },
+  {
+    "pergunta": "Como a Reaqt contribui para a eficiência hídrica de empresas?",
+    "alternativas": [
+      "A) Criando sistemas de gestão inteligente para o uso da água",
+      "B) Eliminando qualquer necessidade de água na produção industrial",
+      "C) Substituindo água por gases comprimidos em processos industriais",
+      "D) Reduzindo a dependência da água por meio de processos de evaporação forçada"
+    ],
+    "resposta_correta": "A",
+    "feedback": "Isso mesmo! A Reaqt desenvolve soluções inovadoras para tratamento e reuso de água, otimizando os recursos hídricos nas empresas."
+  },
+  {
+    "pergunta": "Quais tecnologias avançadas a Ambiensys utiliza para purificação de água de reúso?",
+    "alternativas": [
+      "A) Nanofiltração e osmose reversa",
+      "B) Evaporação por alta pressão",
+      "C) Filtragem magnética de partículas de poluentes",
+      "D) Extração química de resíduos sólidos"
+    ],
+    "resposta_correta": "A",
+    "feedback": "Exatamente! A Ambiensys utiliza nanofiltração e osmose reversa para garantir água de reúso segura e sustentável."
+  },
+{
+    "pergunta": "Qual benefício direto do reuso de água para empresas e comunidades?",
+    "alternativas": [
+      "A) Redução dos custos operacionais e preservação de recursos naturais",
+      "B) Aumento do desperdício de água em processos industriais",
+      "C) Necessidade de infraestrutura mais cara para manutenção do sistema",
+      "D) Crescimento do consumo desnecessário de água potável"
+    ],
+    "resposta_correta": "A",
+    "feedback": "Muito bem! O reuso de água reduz custos e contribui para a preservação ambiental, garantindo disponibilidade hídrica a longo prazo."
+  },
+   {
+    "pergunta": "Qual técnica pode ser usada para dessalinizar água oceânica de forma sustentável?",
+    "alternativas": [
+      "A) Destilação térmica com alto consumo energético",
+      "B) Osmose reversa, separando o sal da água por meio de membranas",
+      "C) Transformação química da água salgada sem filtração",
+      "D) Extração de sal por processo de combustão química"
+    ],
+    "resposta_correta": "B",
+    "feedback": "Boa! A osmose reversa é uma das técnicas mais sustentáveis para dessalinização, permitindo transformar água salgada em potável com eficiência energética."
+  },
+  {
+    "image": "consumo_agua_industria.png",
+    "pergunta": "De acordo com a imagem, qual dos seguintes produtos requer a maior quantidade de água para sua produção?",
+    "alternativas": [
+      "A) Carros",
+      "B) Sapatos de Couro",
+      "C) Celulares"
+    ],
+    "resposta_correta": "C",
+    "feedback": "Correto! A produção de um celular requer 15.000 litros de água, mais do que a produção de um carro (14.800 litros) ou um par de sapatos de couro (8.000 litros)."
+  },
+  {
+    "image": "consumo_agua_industria.png",
+    "pergunta": "Analisando a imagem, quantos litros de água são necessários para produzir um par de sapatos de couro?",
+    "alternativas": [
+      "A) 14.800 litros",
+      "B) 15.000 litros",
+      "C) 8.000 litros"
+    ],
+    "resposta_correta": "C",
+    "feedback": "Isso mesmo! A imagem informa que são necessários 8.000 litros de água para produzir um par de sapatos de couro."
+  },
+  {
+    "pergunta": "Segundo a imagem, a diferença no consumo de água entre a produção de um carro e um celular é de:",
+    "alternativas": [
+      "A) 200 litros",
+      "B) 1.200 litros",
+      "C) 8.000 litros"
+    ],
+    "resposta_correta": "A",
+    "feedback": "Exato! Um celular requer 15.000 litros e um carro 14.800 litros, resultando em uma diferença de 200 litros."
+  },
+  {
+    "pergunta": "Qual o principal objetivo do planejamento e gestão de recursos naturais?",
+    "alternativas": [
+      "A) Aumentar a exploração para o crescimento econômico.",
+      "B) Criar estratégias para o uso sustentável de água, solo e biodiversidade.",
+      "C) Ignorar os limites ambientais em prol do desenvolvimento.",
+      "D) Focar apenas na preservação intocada da natureza."
+    ],
+    "resposta_correta": "B",
+    "feedback": "Correto! O objetivo é equilibrar desenvolvimento com sustentabilidade, promovendo o uso responsável dos recursos."
+  },
+  {
+    "pergunta": "Quais são os três principais recursos naturais que um gestor ambiental precisa considerar no planejamento sustentável?",
+    "alternativas": [
+      "A) Minerais, petróleo e gás.",
+      "B) Água, solo e biodiversidade.",
+      "C) Florestas, ar e animais de estimação.",
+      "D) Cidades, indústrias e agricultura."
+    ],
+    "resposta_correta": "B",
+    "feedback": "Boa! Água, solo e biodiversidade são pilares fundamentais do planejamento ambiental sustentável."
+  },
+  {
+    "pergunta": "Qual a principal função da fiscalização e conformidade ambiental?",
+    "alternativas": [
+      "A) Ajudar empresas a lucrar mais, mesmo que prejudiquem o ambiente.",
+      "B) Garantir que empresas e instituições sigam regulamentações ambientais rigorosas.",
+      "C) Punir empresas sem oferecer alternativas sustentáveis.",
+      "D) Ignorar pequenas infrações ambientais."
+    ],
+    "resposta_correta": "B",
+    "feedback": "Perfeito! A fiscalização garante o cumprimento das normas ambientais, promovendo responsabilidade ecológica."
+  },
+  {
+    "pergunta": "O que acontece com empresas que não seguem as regulamentações ambientais?",
+    "alternativas": [
+      "A) Recebem um prêmio por inovação.",
+      "B) São isentas de impostos.",
+      "C) Podem sofrer sanções como multas e paralisação de atividades.",
+      "D) São ignoradas pelos órgãos fiscalizadores."
+    ],
+    "resposta_correta": "C",
+    "feedback": "Correto! A não conformidade pode levar a sanções legais sérias."
+  }
+]
